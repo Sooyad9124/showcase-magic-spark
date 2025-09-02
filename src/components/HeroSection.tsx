@@ -26,7 +26,7 @@ const HeroSection = () => {
               <h1 className="text-5xl lg:text-7xl font-bold mb-6">
                 Hi, I'm{' '}
                 <span className="text-primary bg-gradient-to-r from-primary to-primary-glow bg-clip-text text-transparent">
-                  Mohamed
+                  Said ALI
                 </span>
               </h1>
               <p className="text-xl lg:text-2xl text-muted-foreground mb-4">
@@ -74,7 +74,7 @@ const HeroSection = () => {
               <div className="w-80 h-80 rounded-full overflow-hidden shadow-card bg-card-gradient p-2">
                 <img
                   src={profilePhoto}
-                  alt="Mohamed Jirac - Software Developer"
+                  alt="Said ALI - Software Developer"
                   className="w-full h-full object-cover rounded-full"
                 />
               </div>

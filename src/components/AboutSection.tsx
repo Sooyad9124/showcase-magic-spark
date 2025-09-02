@@ -16,7 +16,7 @@ const AboutSection = () => {
               <div className="w-64 h-64 rounded-full overflow-hidden shadow-card bg-card-gradient p-2">
                 <img
                   src={profilePhoto}
-                  alt="Mohamed Jirac"
+                  alt="Said ALI"
                   className="w-full h-full object-cover rounded-full"
                 />
               </div>

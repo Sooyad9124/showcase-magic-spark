@@ -58,7 +58,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <p className="font-medium text-primary">Email</p>
-                  <p className="text-muted-foreground">jirac.1@buckeyemail.osu.edu</p>
+                  <p className="text-muted-foreground">said.ali@buckeyemail.osu.edu</p>
                 </div>
               </div>
 
@@ -68,7 +68,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <p className="font-medium text-primary">LinkedIn</p>
-                  <p className="text-muted-foreground">linkedin.com/in/mohamed-jirac</p>
+                  <p className="text-muted-foreground">linkedin.com/in/said-ali</p>
                 </div>
               </div>
 
@@ -78,7 +78,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <p className="font-medium text-primary">GitHub</p>
-                  <p className="text-muted-foreground">github.com/Mohamed2020</p>
+                  <p className="text-muted-foreground">github.com/SaidAli2020</p>
                 </div>
               </div>
             </div>
@@ -140,7 +140,7 @@ const ContactSection = () => {
 
         <div className="text-center mt-16 pt-8 border-t border-primary/20">
           <p className="text-muted-foreground text-sm">
-            Copyright © 2024 Mohamed Jirac. All Rights Reserved.
+            Copyright © 2024 Said ALI. All Rights Reserved.
           </p>
         </div>
       </div>
